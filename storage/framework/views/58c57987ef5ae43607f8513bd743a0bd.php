@@ -27,7 +27,7 @@
 <body>
     <img src="<?php echo e(asset('images/unauthorized.png')); ?>" alt="Unauthorized">
     <h1>Unauthorized Access</h1>
-    <p>You must be logged in to access this page.</p>
+    <p>Direct access to this API is not allowed. Please use the official web application.</p>
 </body>
 </html>
 <?php /**PATH /var/www/resources/views/errors/unauthorized.blade.php ENDPATH**/ ?>
